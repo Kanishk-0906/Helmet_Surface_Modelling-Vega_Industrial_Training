@@ -74,6 +74,13 @@ This project represents a significant progression from the previous helmet model
 
 ---
 
+### Exploded Surface Assembly
+
+![Exploded Surface Assembly](07_exploded.png)
+
+
+---
+
 ## Key Learning Outcomes
 
 - Advanced freeform surface modeling
