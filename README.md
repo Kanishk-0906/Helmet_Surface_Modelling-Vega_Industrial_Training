@@ -59,28 +59,6 @@ Helmet_Surface_Modeling-Vega_Industrial_Training
 
 ---
 
-## Learning Progression
-
-```
-Helmet 01
-Basic Inner Liner Surface
-          │
-          ▼
-Helmet 02
-Advanced Inner Liner Surface
-          │
-          ▼
-Helmet 03
-Exterior Class A Surface
-          │
-          ▼
-Helmet 04
-Complete Helmet Surface
-(Liner + Class A + Sew)
-```
-
----
-
 ## About
 
 This repository showcases the progression of my industrial training at **Vega Helmets**, demonstrating the development of production-oriented helmet surfaces using **Siemens NX**. Each project builds upon the previous one, reflecting the transition from foundational surface creation to complete Class A product surfacing and surface integration workflows.
