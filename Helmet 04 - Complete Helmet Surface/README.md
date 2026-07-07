@@ -62,6 +62,18 @@ This project represents a significant progression from the previous helmet model
 
 ---
 
+### Zebra Analysis
+
+![Zebra Analysis](05_zebra_analysis.png)
+
+---
+
+### Wireframe
+
+![Wireframe](06_wireframe.png)
+
+---
+
 ## Key Learning Outcomes
 
 - Advanced freeform surface modeling
