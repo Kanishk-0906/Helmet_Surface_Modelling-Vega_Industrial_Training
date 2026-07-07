@@ -2,21 +2,21 @@
 
 ## Overview
 
-This project focuses on developing a production-quality inner liner surface of a legacy helmet using Siemens NX surfacing tools. The objective was to recreate a smooth, continuous surface from reference geometry while maintaining high geometric accuracy and manufacturable surface quality.
+This project focuses on developing the inner liner surface of a legacy helmet using Siemens NX advanced surfacing tools. Compared to Helmet 01, this model involved more complex freeform geometry and transition regions, requiring greater control over curve networks, surface continuity, and trimming operations.
 
-The model was developed as part of industrial training to build proficiency in advanced Class A surfacing workflows used in helmet design.
+The objective was to strengthen proficiency in production-oriented surface modeling workflows commonly used in industrial helmet design.
 
 ---
 
 ## Surface Development Workflow
 
-- Created reference splines from helmet geometry
-- Constructed primary surfaces using Through Curve and Through Curve Mesh
-- Developed complex freeform regions using Studio Surface
-- Generated transition surfaces using Bridge Curve techniques
+- Constructed reference splines from helmet geometry
+- Developed primary freeform surfaces using Through Curve and Through Curve Mesh
+- Created complex transition regions using Studio Surface
+- Generated smooth surface connections with Bridge Curves
 - Built auxiliary datum planes and sketches for controlled surface creation
-- Performed trimming, sheet management, and surface refinement
-- Maintained G0 and G1 continuity wherever required
+- Refined geometry using Trim Sheet, Split Body, and Delete Body
+- Maintained G0 and G1 continuity throughout the model wherever required
 - Evaluated final surface quality using Zebra Analysis
 
 ---
@@ -41,22 +41,27 @@ The model was developed as part of industrial training to build proficiency in a
 ## Gallery
 
 ### Final Surface (Trimetric)
+
 ![Final Surface](Images/01_trimetric.png)
 
 ### Side View
+
 ![Side View](Images/02_side.png)
 
 ### Top View
+
 ![Top View](Images/03_top.png)
 
 ### Zebra Analysis
+
 ![Zebra Analysis](Images/04_zebra_analysis.png)
 
 ### Wireframe View
+
 ![Wireframe](Images/05_wireframe.png)
 
 ---
 
 ## Note
 
-This model was developed as part of my surfacing training using a legacy helmet as the reference geometry. The objective was to build proficiency in advanced freeform surface modeling, continuity management, and surface quality evaluation in Siemens NX rather than to redesign the helmet itself.
+This model was developed as part of my surfacing training using a legacy helmet as the reference geometry. The objective was to further develop advanced freeform surface modeling skills while improving control over complex surface transitions, continuity management, and surface quality evaluation in Siemens NX.
