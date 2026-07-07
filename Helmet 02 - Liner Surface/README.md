@@ -42,23 +42,23 @@ The objective was to strengthen proficiency in production-oriented surface model
 
 ### Final Surface (Trimetric)
 
-![Final Surface](Images/01_trimetric.png)
+![Final Surface](01_trimetric.png)
 
 ### Side View
 
-![Side View](Images/02_side.png)
+![Side View](02_side.png)
 
 ### Top View
 
-![Top View](Images/03_top.png)
+![Top View](03_top.png)
 
 ### Zebra Analysis
 
-![Zebra Analysis](Images/04_zebra_analysis.png)
+![Zebra Analysis](04_zebra_analysis.png)
 
 ### Wireframe View
 
-![Wireframe](Images/05_wireframe.png)
+![Wireframe](05_wireframe.png)
 
 ---
 
