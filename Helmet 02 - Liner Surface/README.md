@@ -54,3 +54,9 @@ The model was developed as part of industrial training to build proficiency in a
 
 ### Wireframe View
 ![Wireframe](Images/05_wireframe.png)
+
+---
+
+## Note
+
+This model was developed as part of my surfacing training using a legacy helmet as the reference geometry. The objective was to build proficiency in advanced freeform surface modeling, continuity management, and surface quality evaluation in Siemens NX rather than to redesign the helmet itself.
