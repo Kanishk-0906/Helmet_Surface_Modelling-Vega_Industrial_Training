@@ -94,4 +94,4 @@ This project represents a significant progression from the previous helmet model
 
 ## Note
 
-This project demonstrates the complete workflow of helmet surface development—from creating the inner liner and exterior Class A surfaces to sewing them into a single manufacturable body. It represents the culmination of the surfacing techniques practiced throughout the previous helmet modeling projects.
+This project demonstrates the complete workflow of helmet surface development-from creating the inner liner and exterior Class A surfaces to sewing them into a single manufacturable body. It represents the culmination of the surfacing techniques practiced throughout the previous helmet modeling projects.
